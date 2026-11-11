@@ -1,8 +1,5 @@
 # Uber Application
 
-## YouTube Series: How Uber Works Under The Hood
-
----
 
 ## Services Overview
 
